@@ -88,7 +88,7 @@
 ```shell
 # clone this repo
 git clone https://github.com/jimmycv07/DiffIR2VR-Zero.git
-cd DiffIR2VR
+cd DiffIR2VR-Zero
 
 # create environment
 conda create -n diffir2vr python=3.10
