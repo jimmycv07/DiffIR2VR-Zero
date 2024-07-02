@@ -3,9 +3,10 @@
 </p> -->
 
 ## DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models
-
 <!-- [![_](https://img.shields.io/badge/arXiv-2312.06640-b31b1b.svg)](https://arxiv.org/abs/2312.06640)  -->
+
 [![_](https://img.shields.io/badge/0️⃣-Project%20Page-orange)](https://jimmycv07.github.io/DiffIR2VR_web/) 
+[![_](https://img.shields.io/badge/arXiv-2407.01519-b31b1b.svg)](https://arxiv.org/abs/2407.01519) 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/Koi953215/DiffIR2VR) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jimmycv07/DiffIR2VR-Zero) 
 
 <!-- [Xinqi Lin](https://0x3f3f3f3fun.github.io/)<sup>1,\*</sup>, [Jingwen He](https://github.com/hejingwenhejingwen)<sup>2,3,\*</sup>, [Ziyan Chen](https://orcid.org/0000-0001-6277-5635)<sup>1</sup>, [Zhaoyang Lyu](https://scholar.google.com.tw/citations?user=gkXFhbwAAAAJ&hl=en)<sup>2</sup>, [Bo Dai](http://daibo.info/)<sup>2</sup>, [Fanghua Yu](https://github.com/Fanghua-Yu)<sup>1</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>2</sup>, [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao)<sup>2</sup>, [Chao Dong](http://xpixel.group/2010/01/20/chaodong.html)<sup>1,2</sup>
